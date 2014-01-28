@@ -48,6 +48,10 @@
             <?php
           }
           ?>
+		  <hr/>
+		  <footer style="bottom:0;">
+		  <h6> This Tutorial is designed by <a href="http://mantrig.herokuapp.com">Govind Mantri.</a></h6>
+		  </footer>
           </body>
       </html>
       
